@@ -1,12 +1,26 @@
 
-body{background:rgb(169, 168, 168);
+body{
+    background:rgb(169, 168, 168);
     color: rgb(5, 5, 93);
     text-align: center}
 
-header{background: rgb(5, 5, 93);
+header{
+      background: rgb(5, 5, 93);
       color: rgb(221, 219, 219);
       text-align: center;
       max-width: 800px;
       margin: 0 auto;
-      border: 5px solid #cf1010   
+      border: 5px solid #e3e303;   
+      padding: 16px
     }
+
+main{
+
+    background: #b60000;
+    text-align: center;
+    max-width: #0b0287;
+    
+
+
+
+}
