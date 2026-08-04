@@ -16,6 +16,7 @@ header{
 
 main{
 
+    color:black;
     display: flex;
     background: #b60000;
     text-align: center;
