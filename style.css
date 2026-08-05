@@ -11,7 +11,8 @@ header{
       max-width: 800px;
       margin: 0 auto;
       border: 5px solid #e3e303;   
-      padding: 16px
+      padding: 16px;
+      font-family: "WindSong", cursive;
     }
 
 main{
@@ -22,8 +23,10 @@ main{
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-
+    border: 5px #061cbc;
     
+
+
 }
 
 
